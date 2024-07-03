@@ -8,6 +8,7 @@ import opensmile
 
 app = Flask(__name__)
 
+
 # Load the model and scaler
 model = load_model('res2_model.h5')
 scaler = joblib.load('std.pkl')
