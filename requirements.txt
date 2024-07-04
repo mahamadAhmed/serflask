@@ -71,7 +71,6 @@ PyQt5-stubs==5.15.6.0
 PySide6==6.4.1
 PySide6-Addons==6.4.1
 PySide6-Essentials==6.4.1
-PySimpleGUI==4.60.4
 python-dateutil==2.8.2
 pytz==2023.3.post1
 PyYAML==6.0.1
